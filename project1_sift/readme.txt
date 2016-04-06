@@ -1,3 +1,2 @@
-WINLab11级本科生训练课题--SIFT特征提取算法
-by 蒲俊福 中国科学技术大学 11级少年班学院理科试验班
-VS2013+opencv2.4.8 编译通过
+Project 1 for Image Understanding
+SIFT Algorithm
